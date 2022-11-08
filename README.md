@@ -37,29 +37,29 @@
 
 Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Finish reading)
 
-| No.  |                        Chapter Title                         |          Status          |
-| :--: | :----------------------------------------------------------: | :----------------------: |
-| Ch00 |                     [Preface](./Ch00.md)                     |    :heavy_check_mark:    |
-|      |                  **Part 1 -- Fundamentals**                  |                          |
-| Ch01 |          [Java 8: why should you care?](./Ch01.md)           |    :heavy_check_mark:    |
-| Ch02 |   [Passing code with behavior parameterization](./Ch02.md)   |    :heavy_check_mark:    |
-| Ch03 |               [Lambda expressions](./Ch03.md)                |    :heavy_check_mark:    |
-|      |        **Part 2 -- Functional-style data processing**        |                          |
-| Ch04 |               [Introducing streams](./Ch04.md)               | :hourglass_flowing_sand: |
-| Ch05 |              [Working with streams](./Ch05.md)               |        :no_entry:        |
-| Ch06 |          [Collecting data with streams](./Ch06.md)           |        :no_entry:        |
-| Ch07 |    [Parallel data processing and performance](./Ch07.md)     |        :no_entry:        |
-|      |          **Part 3 -- Effective Java 8 programming**          |                          |
-| Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       |        :no_entry:        |
-| Ch09 |                 [Default methods](./Ch09.md)                 |        :no_entry:        |
-| Ch10 | [Using Optional as a better alternative to null](./Ch10.md)  |        :no_entry:        |
-| Ch11 | [CompletableFuture: composable asynchronous programming](./Ch11.md) |        :no_entry:        |
-| Ch12 |              [New Date and Time API](./Ch12.md)              |        :no_entry:        |
-|      |                 **Part 4 -- Beyond Java 8**                  |                          |
-| Ch13 |              [Thinking functionally](./Ch13.md)              |        :no_entry:        |
-| Ch14 |        [Functional programming techniques](./Ch14.md)        |        :no_entry:        |
-| Ch15 | [Blending OOP and FP: comparing Java 8 and Scala](./Ch15.md) |        :no_entry:        |
-| Ch16 |       [Conclusions and where next for Java](./Ch16.md)       |        :no_entry:        |
+| No.  |                        Chapter Title                         |       Status       |
+| :--: | :----------------------------------------------------------: | :----------------: |
+| Ch00 |                     [Preface](./Ch00.md)                     | :heavy_check_mark: |
+|      |                  **Part 1 -- Fundamentals**                  |                    |
+| Ch01 |          [Java 8: why should you care?](./Ch01.md)           | :heavy_check_mark: |
+| Ch02 |   [Passing code with behavior parameterization](./Ch02.md)   | :heavy_check_mark: |
+| Ch03 |               [Lambda expressions](./Ch03.md)                | :heavy_check_mark: |
+|      |        **Part 2 -- Functional-style data processing**        |                    |
+| Ch04 |               [Introducing streams](./Ch04.md)               | :heavy_check_mark: |
+| Ch05 |              [Working with streams](./Ch05.md)               |     :no_entry:     |
+| Ch06 |          [Collecting data with streams](./Ch06.md)           |     :no_entry:     |
+| Ch07 |    [Parallel data processing and performance](./Ch07.md)     |     :no_entry:     |
+|      |          **Part 3 -- Effective Java 8 programming**          |                    |
+| Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       |     :no_entry:     |
+| Ch09 |                 [Default methods](./Ch09.md)                 |     :no_entry:     |
+| Ch10 | [Using Optional as a better alternative to null](./Ch10.md)  |     :no_entry:     |
+| Ch11 | [CompletableFuture: composable asynchronous programming](./Ch11.md) |     :no_entry:     |
+| Ch12 |              [New Date and Time API](./Ch12.md)              |     :no_entry:     |
+|      |                 **Part 4 -- Beyond Java 8**                  |                    |
+| Ch13 |              [Thinking functionally](./Ch13.md)              |     :no_entry:     |
+| Ch14 |        [Functional programming techniques](./Ch14.md)        |     :no_entry:     |
+| Ch15 | [Blending OOP and FP: comparing Java 8 and Scala](./Ch15.md) |     :no_entry:     |
+| Ch16 |       [Conclusions and where next for Java](./Ch16.md)       |     :no_entry:     |
 
 
 
