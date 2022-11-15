@@ -16,20 +16,29 @@
 
 > **Introduction**
 >
-> Back in 1998 when I was eight years old, I picked up my first book on computing—on JavaScript and HTML. Little did I know that opening that book would transform my life by exposing me to programming languages and the amazing things I could do with them. I was hooked. Every so often I still find a new programming language feature that revives this excitement because it enables me to write clearer, more concise code in half the time. I hope that the new ideas in Java 8, incorporated from functional programming and explored in this book, inspire you in the same way.
+> > **A great and concise guide to what’s new in Java8, with plenty of examples to get you going in a hurry.**
+> >
+> > Jason Lee, Oracle
 >
-> So, you may wonder, how did this book come about?
+> *Java 8 in Action* is a clearly written guide to the new features of Java 8. The book covers lambdas, streams, and functional-style programming. With Java 8's functional features you can now write more concise code in less time, and also automatically benefit from multicore architectures. It's time to dig in!
 >
-> Well, back in 2011, Brian Goetz (the Java Language Architect at Oracle) was sharing various proposals to add lambda expressions to Java, with the aim of getting the community involved. These rekindled my excitement, and I started to evangelize the ideas, organizing Java 8 workshops at various developer conferences and giving lectures to students at the University of Cambridge.
+> Every new version of Java is important, but Java 8 is a game changer. *Java 8 in Action* is a clearly written guide to the new features of Java 8. It begins with a practical introduction to lambdas, using real-world Java code. Next, it covers the new Streams API and shows how you can use it to make collection-based code radically easier to understand and maintain. It also explains other major Java 8 features including `default` methods, `Optional`, `CompletableFuture`, and the new Date and Time API.
 >
-> By April 2013, word had spread, and our publisher at Manning emailed asking whether I was interested in writing a book about lambdas in Java 8. At the time I was a “humble” second-year PhD candidate, and that seemed to be a bad idea because it would interfere with my thesis submission schedule. On the other hand, carpe diem; I thought writing a short book shouldn’t be too much work, right? (It was only later that I realized I was utterly wrong!) So I sought advice from my PhD supervisor, Professor Alan Mycroft, who, it turned out, was ready to support me in this adventure (even offering to help in such non-PhD work—I’m forever in his debt). A few days later we met fellow Java 8 evangelist Mario Fusco, who had vast professional experience and had become well known for his talks on functional programming at major developer conferences.
+> ## what's inside
 >
-> We quickly realized that by combining our energy and diverse backgrounds we could deliver, not just a short book on Java 8 lambdas, but instead a book that, we hope, the Java community will still be reading in five or ten years. We had a unique opportunity to discuss in depth many topics that will benefit Java programmers and open doors to a new universe of ideas: functional programming.
+> - How to use Java 8's powerful new features
+> - Writing effective multicore-ready applications
+> - Refactoring, testing, and debugging
+> - Adopting functional-style programming
+> - Quizzes and quick-check questions
 >
-> Now—July 2014, 15 months later, after many long nights, endless edits, and an unforgettable experience—you have our work in your hands and we hope you will enjoy it!
+> ## about the reader
 >
-> RAOUL-GABRIEL URMA
-> UNIVERSITY OF CAMBRIDGE
+> This book is written for programmers familiar with Java and basic OO programming.
+>
+> ## about the authors
+>
+> **Raoul-Gabriel Urma** is a software engineer, speaker, trainer, and PhD candidate at the University of Cambridge. **Mario Fusco** is an engineer at Red Hat and creator of the `lambdaj` library. **Alan Mycroft** is a professor at Cambridge and cofounder of the Raspberry Pi Foundation.
 
 
 
