@@ -56,8 +56,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 |      |        **Part 2 -- Functional-style data processing**        |                          |
 | Ch04 |               [Introducing streams](./Ch04.md)               |    :heavy_check_mark:    |
 | Ch05 |              [Working with streams](./Ch05.md)               |    :heavy_check_mark:    |
-| Ch06 |          [Collecting data with streams](./Ch06.md)           | :hourglass_flowing_sand: |
-| Ch07 |    [Parallel data processing and performance](./Ch07.md)     |        :no_entry:        |
+| Ch06 |          [Collecting data with streams](./Ch06.md)           |      :orange_book:       |
+| Ch07 |    [Parallel data processing and performance](./Ch07.md)     | :hourglass_flowing_sand: |
 |      |          **Part 3 -- Effective Java 8 programming**          |                          |
 | Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       |        :no_entry:        |
 | Ch09 |                 [Default methods](./Ch09.md)                 |        :no_entry:        |
