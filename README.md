@@ -59,8 +59,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | Ch06 |          [Collecting data with streams](./Ch06.md)           |    :heavy_check_mark:    |
 | Ch07 |    [Parallel data processing and performance](./Ch07.md)     |      :orange_book:       |
 |      |          **Part 3 -- Effective Java 8 programming**          |                          |
-| Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       | :hourglass_flowing_sand: |
-| Ch09 |                 [Default methods](./Ch09.md)                 |        :no_entry:        |
+| Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       |      :orange_book:       |
+| Ch09 |                 [Default methods](./Ch09.md)                 | :hourglass_flowing_sand: |
 | Ch10 | [Using Optional as a better alternative to null](./Ch10.md)  |        :no_entry:        |
 | Ch11 | [CompletableFuture: composable asynchronous programming](./Ch11.md) |        :no_entry:        |
 | Ch12 |              [New Date and Time API](./Ch12.md)              |        :no_entry:        |
