@@ -62,7 +62,7 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | Ch08 |       [Refactoring, testing, and debugging](./Ch08.md)       |   :orange_book:    |
 | Ch09 |                 [Default methods](./Ch09.md)                 |   :orange_book:    |
 | Ch10 | [Using Optional as a better alternative to null](./Ch10.md)  |   :orange_book:    |
-| Ch11 | [CompletableFuture: composable asynchronous programming](./Ch11.md) |     :no_entry:     |
+| Ch11 | [CompletableFuture: composable asynchronous programming](./Ch11.md) |   :orange_book:    |
 | Ch12 |              [New Date and Time API](./Ch12.md)              |     :no_entry:     |
 |      |                 **Part 4 -- Beyond Java 8**                  |                    |
 | Ch13 |              [Thinking functionally](./Ch13.md)              |     :no_entry:     |
