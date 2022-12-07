@@ -67,7 +67,7 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 |              |                 **Part 4 -- Beyond Java 8**                  |                    |
 |  Ch13（16）  |              [Thinking functionally](./Ch13.md)              |   :orange_book:    |
 |  Ch14（24）  |        [Functional programming techniques](./Ch14.md)        |   :orange_book:    |
-|  Ch15（15）  | [Blending OOP and FP: comparing Java 8 and Scala](./Ch15.md) |     :no_entry:     |
+|  Ch15（15）  | [Blending OOP and FP: comparing Java 8 and Scala](./Ch15.md) |   :orange_book:    |
 |  Ch16（14）  |       [Conclusions and where next for Java](./Ch16.md)       |     :no_entry:     |
 
 
